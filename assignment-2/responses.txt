@@ -1,0 +1,17 @@
+responses.txt
+
+Data travels the internet through packets. they travel from one machine to another at random until they reach its destination
+
+what is the relationship between IP addresses and DNS
+
+IP address is used to direct a query from its source into its destination
+A DNS stores and directs traffic.
+
+What is a Cookie?
+A cookie is a file that stores a small amount of data from the user computer and is accessed by either a client or a web service.
+
+URL Parts
+
+1. protocol
+2. server name
+3. resource ID
