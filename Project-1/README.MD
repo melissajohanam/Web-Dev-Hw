@@ -19,3 +19,5 @@
 
 <h8> Did you have any problems and issues? How did you solve these?
 This week I didn't have any problems or issues that I can remember. If I did, to solve the problems or issues I would go back and read Topic 3 until I find what i need.</h8>
+
+![workspace image](./images/workspace.png)
