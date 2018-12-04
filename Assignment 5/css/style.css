@@ -1,0 +1,30 @@
+body { background color:white;
+  /*white is the common color used as a ackground in almost all websites*/
+  padding:12;
+text-align: right;
+font-style: Bold;
+font-size: 30;
+color: limegreen;
+}
+.container {
+  color: grey
+}
+#box-one {
+  font-style: oblique;
+  background-color: green;
+  text-align: right;
+  font-size: 26
+}
+#box-two {
+  font-style: normal;
+  background-color: white;
+  text-align: right;
+  font-size: 30
+
+}
+#box-three {
+  font-style: italic;
+  background-color: lightblue;
+  text-align: center;
+  
+}
