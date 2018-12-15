@@ -10,3 +10,5 @@
 <p>I really enjoyed seeing how all my assignments turned out to be in one whole final assignment. I am very proud of myself to be able to stay caught up in all assignments while I am taking care of my 2 month old son. I thought I wouldn't be able to accomplish many of the assignments.</p>
 
 <h3>I really liked this class.</h3>
+
+![screenshot](./images/project-3.png)
